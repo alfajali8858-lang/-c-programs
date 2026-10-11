@@ -1,0 +1,10 @@
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    printf("My name is Alfaj Ali.\n");
+    printf("I am learning C programming.");
+
+    return 0;
+}
